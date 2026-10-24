@@ -1,0 +1,11 @@
+{
+  "_comment": "Cold-start hints: word -> category name from your Setup tab. Only unambiguous ones. Your own history overrides these as soon as it has examples.",
+  "rent": "Life Infrastructure",
+  "electricity": "Life Infrastructure",
+  "sip": "Future Me",
+  "ppf": "Future Me",
+  "course": "Performance & Growth",
+  "gift": "Relationships & Generosity",
+  "donation": "Relationships & Generosity",
+  "movie": "Lifestyle Enjoyment"
+}
