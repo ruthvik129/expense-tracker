@@ -2,19 +2,6 @@
 
 Phone-first PWA that uses your own Google Sheet as the database. No AI, no third-party analytics. Built from `Expense Tracker Plan.md`. Inspired by **Ankur Warikoo** [video](https://youtu.be/zHTjc-lszXI?si=NbK_mEvjBDBX28Vj).
 
-## Status
-
-| Milestone | State |
-| --- | --- |
-| 1 Scaffold, PWA, Settings | done |
-| 2 Apps Script backend | built and tested against a fake sheet (`apps-script/`); needs your test copy for the real check |
-| 3 Data layer (API client, IndexedDB, outbox sync) | done |
-| 4 Parser + category predictor | done: 60 parser cases; predictor 96.7% top-1 on the 150-row synthetic fixture (real number shows in Settings) |
-| 5 Add + History | done |
-| 6 Weekly + Monthly | done |
-| 7 Year calendar | done |
-| 8 Polish + deploy | done except the real deploy (needs your Cloudflare/Vercel account) |
-
 The app runs in **demo mode** (generated sample data, in memory) until a script URL and token are saved in Settings.
 
 ## Develop
